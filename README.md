@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Metin.
-- 👀 I’m interested in learning how the world makes software.
-- 🌱 I’m currently a web developer.
 - 📫 You can reach me via metinkayali@gmail.com
 
 <!---
